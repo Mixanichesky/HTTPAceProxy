@@ -23,7 +23,7 @@ Playlist format example:
 proxies = {}
 
 # Channels urls or path to file ('file:///path/to/file' or 'file:///C://path//to//file' for Windows OS)
-url = 'http://pomoyka.win/trash/ttv-list/ace.json'
+url = 'http://10.10.10.25:1488/trash/ttv-list/as.json'
 
 # EPG urls
 tvgurl = 'https://iptvx.one/epg/epg.xml.gz'
